@@ -1,0 +1,11 @@
+name: jaime-lannister
+version: 1.0.0
+description: "Hermes Agent styled after Jaime Lannister from Westeros: House Lannister & the Crownlands"
+hermes_requires: ">=0.18.0"
+author: "JPeetz"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - config.yaml
+  - skins/
+  - distribution.yaml

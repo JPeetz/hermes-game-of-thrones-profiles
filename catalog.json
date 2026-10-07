@@ -1,0 +1,215 @@
+{
+  "franchise": "Westeros",
+  "profiles": [
+    {
+      "slug": "eddard-stark",
+      "name": "Eddard 'Ned' Stark",
+      "series": "Stark"
+    },
+    {
+      "slug": "jon-snow",
+      "name": "Jon Snow",
+      "series": "Stark"
+    },
+    {
+      "slug": "arya-stark",
+      "name": "Arya Stark",
+      "series": "Stark"
+    },
+    {
+      "slug": "sansa-stark",
+      "name": "Sansa Stark",
+      "series": "Stark"
+    },
+    {
+      "slug": "robb-stark",
+      "name": "Robb Stark",
+      "series": "Stark"
+    },
+    {
+      "slug": "bran-stark",
+      "name": "Bran Stark",
+      "series": "Stark"
+    },
+    {
+      "slug": "tyrion-lannister",
+      "name": "Tyrion Lannister",
+      "series": "Lannister"
+    },
+    {
+      "slug": "cersei-lannister",
+      "name": "Cersei Lannister",
+      "series": "Lannister"
+    },
+    {
+      "slug": "jaime-lannister",
+      "name": "Jaime Lannister",
+      "series": "Lannister"
+    },
+    {
+      "slug": "tywin-lannister",
+      "name": "Tywin Lannister",
+      "series": "Lannister"
+    },
+    {
+      "slug": "joffrey-the-red-team",
+      "name": "Joffrey Baratheon",
+      "series": "Lannister"
+    },
+    {
+      "slug": "daenerys-targaryen",
+      "name": "Daenerys Targaryen",
+      "series": "Targaryen"
+    },
+    {
+      "slug": "rhaegar-targaryen",
+      "name": "Rhaegar Targaryen",
+      "series": "Targaryen"
+    },
+    {
+      "slug": "viserys-targaryen",
+      "name": "Viserys Targaryen",
+      "series": "Targaryen"
+    },
+    {
+      "slug": "aegon-the-red-team",
+      "name": "Aegon Targaryen",
+      "series": "Targaryen"
+    },
+    {
+      "slug": "littlefinger-the-red-team",
+      "name": "Petyr 'Littlefinger' Baelish",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "varys",
+      "name": "Varys",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "olenna-tyrell",
+      "name": "Olenna Tyrell",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "margaery-tyrell",
+      "name": "Margaery Tyrell",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "bronn",
+      "name": "Bronn",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "jeor-mormont",
+      "name": "Jeor Mormont",
+      "series": "Watch"
+    },
+    {
+      "slug": "samwell-tarly",
+      "name": "Samwell Tarly",
+      "series": "Watch"
+    },
+    {
+      "slug": "eddison-tollett",
+      "name": "Eddison Tollett",
+      "series": "Watch"
+    },
+    {
+      "slug": "tormund-giantsbane",
+      "name": "Tormund Giantsbane",
+      "series": "Watch"
+    },
+    {
+      "slug": "night-king-the-red-team",
+      "name": "The Night King",
+      "series": "Adversary"
+    },
+    {
+      "slug": "the-mountain-the-red-team",
+      "name": "Gregor 'The Mountain' Clegane",
+      "series": "Adversary"
+    },
+    {
+      "slug": "euron-the-red-team",
+      "name": "Euron Greyjoy",
+      "series": "Adversary"
+    },
+    {
+      "slug": "ramsay-the-red-team",
+      "name": "Ramsay Snow",
+      "series": "Adversary"
+    },
+    {
+      "slug": "rhaenyra-targaryen",
+      "name": "Rhaenyra Targaryen",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "daemon-targaryen",
+      "name": "Daemon Targaryen",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "alicent-hightower",
+      "name": "Alicent Hightower",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "otto-hightower",
+      "name": "Otto Hightower",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "viserys-i-targaryen",
+      "name": "Viserys I Targaryen",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "criston-cole-the-red-team",
+      "name": "Ser Criston Cole",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "aemond-one-eye-the-red-team",
+      "name": "Aemond Targaryen",
+      "series": "HogDragon"
+    },
+    {
+      "slug": "davos-seaworth",
+      "name": "Ser Davos Seaworth",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "melisandre",
+      "name": "Melisandre",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "theon-greyjoy",
+      "name": "Theon Greyjoy",
+      "series": "SmallCouncil"
+    },
+    {
+      "slug": "brienne-of-tarth",
+      "name": "Brienne of Tarth",
+      "series": "Stark"
+    },
+    {
+      "slug": "ser-alliser-thorne-the-red-team",
+      "name": "Ser Alliser Thorne",
+      "series": "Adversary"
+    },
+    {
+      "slug": "walder-frey-the-red-team",
+      "name": "Lord Walder Frey",
+      "series": "Adversary"
+    },
+    {
+      "slug": "rorge-the-red-team",
+      "name": "Rorge",
+      "series": "Adversary"
+    }
+  ]
+}
